@@ -8,3 +8,13 @@ C:\Users\Anthony\Desktop\Programming\C# Projects\DigitalClock\DigitalClock\obj\D
 C:\Users\Anthony\Desktop\Programming\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
 C:\Users\Anthony\Desktop\Programming\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
 C:\Users\Anthony\Desktop\Programming\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.SetAlarmForm.resources
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.SetAlarmForm.resources
+C:\Users\Anthony\Desktop\Programming\Visual Studio 2015\Projects\C# Projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.Cache

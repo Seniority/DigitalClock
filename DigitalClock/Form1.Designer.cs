@@ -146,6 +146,7 @@
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Digital Clock";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -157,9 +158,9 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label lblDate;
         private System.Windows.Forms.Label lblAlarmStatus;
-        private System.Windows.Forms.Button btnSetAlarm;
         private System.Windows.Forms.RadioButton radioAlarmOff;
         private System.Windows.Forms.RadioButton radioAlarmOn;
+        private System.Windows.Forms.Button btnSetAlarm;
     }
 }
 

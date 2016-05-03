@@ -16,5 +16,23 @@ namespace DigitalClock
         {
             InitializeComponent();
         }
-    }
-}
+
+        private void SetAlarmForm_Load(object sender, EventArgs e)
+        {
+            cbDate.SelectedIndex = 0;
+            cbTimeHour.SelectedIndex = 0;
+            cbTimeMin.SelectedIndex = 0;
+            cbSnoozMin.SelectedIndex = 0;
+        }
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        public void btnConfirm_Click(object sender, EventArgs e)
+        {
+            
+        }
+    }// end Class
+}// end Namepace
