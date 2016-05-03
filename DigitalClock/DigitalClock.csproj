@@ -75,6 +75,10 @@
     <EmbeddedResource Include="SetAlarmForm.resx">
       <DependentUpon>SetAlarmForm.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="digital-7 %28italic%29.ttf" />
+    <None Include="digital-7 %28mono italic%29.ttf" />
+    <None Include="digital-7 %28mono%29.ttf" />
+    <None Include="digital-7.ttf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -88,9 +92,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Fonts\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
